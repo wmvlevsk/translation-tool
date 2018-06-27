@@ -1,1 +1,1 @@
-# translation-tool
+# translation-tool-api
